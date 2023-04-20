@@ -13,23 +13,27 @@ Este proyecto es el back end de la aplicación "Alrededor de los Estados Unidos"
 
 ## Tecnologias utilizadas
 
-- NodeJS 
+- NodeJS ![Logo de Node.js](https://nodejs.org/static/images/logo.svg)
 
-- Express
 
-## GET Usuarios
+- Express ![Logo de Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)
 
-`GET /users` Retorna todos los usuarios
+-Postman  ![Logo de Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg)
 
-## GET Usuario por id
+
+## GET Usuarios  
+
+`GET /users` Retorna todos los usuarios 👥 
+
+## GET Usuario por id 👨‍🔬
 
 `GET /users/id` Retorna el usuario filtrado por un id
 
-## GET Cards
+## GET Cards 🎴 
 
 `GET /cards` Retorna todas las publicaciones
 
-## Directorios
+## Directorios 
 
 `/data` Archivos JSON temporales para simular una base de datos
 
